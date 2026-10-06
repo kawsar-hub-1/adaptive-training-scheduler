@@ -1,0 +1,10 @@
+[
+  {"name": "classification", "difficulty": 0.25, "learning_rate": 0.090, "initial_proficiency": 0.32, "eval_noise": 0.04},
+  {"name": "reasoning", "difficulty": 0.75, "learning_rate": 0.055, "initial_proficiency": 0.18, "eval_noise": 0.05},
+  {"name": "extraction", "difficulty": 0.20, "learning_rate": 0.075, "initial_proficiency": 0.58, "eval_noise": 0.03},
+  {"name": "coding", "difficulty": 0.65, "learning_rate": 0.060, "initial_proficiency": 0.27, "eval_noise": 0.05},
+  {"name": "summarisation", "difficulty": 0.30, "learning_rate": 0.070, "initial_proficiency": 0.52, "eval_noise": 0.03},
+  {"name": "tool_use", "difficulty": 0.80, "learning_rate": 0.050, "initial_proficiency": 0.15, "eval_noise": 0.05},
+  {"name": "planning", "difficulty": 0.70, "learning_rate": 0.052, "initial_proficiency": 0.21, "eval_noise": 0.05},
+  {"name": "grounding", "difficulty": 0.55, "learning_rate": 0.062, "initial_proficiency": 0.40, "eval_noise": 0.04}
+]
