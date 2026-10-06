@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata in this file."
+title: "Adaptive Training Scheduler"
+type: software
+authors:
+  - family-names: Arzomand
+    given-names: Kawsar
+version: 0.1.0
+date-released: 2026-10-06
+license: MIT
+repository-code: "https://github.com/kawsar-hub-1/adaptive-training-scheduler"
